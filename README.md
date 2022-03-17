@@ -1,3 +1,2 @@
 # FHNWIT
 IT Project
-*Test*
